@@ -32,4 +32,4 @@ Recruitment assessment for the Backend Engineer role at Blox.xyz. Includes solut
 - set CATALINA_OPTS=-Xms512m -Xmx512m
 
 # Question 2 - Refer json-parser project
-# Question 5 - Refer distributed-banking-basic-approach and distributed-banking-enhanced-approach
+# Question 5 - Refer distributed-banking-basic-approach project and distributed-banking-enhanced-approach project
